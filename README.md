@@ -29,7 +29,7 @@ LinkedIn:
 
 Portifolio: 
 
-E-mail: 
+E-mail: Mikemarques023@gmail.com
 
 ---
 🛠️ Projetos:
