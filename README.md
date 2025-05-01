@@ -10,36 +10,41 @@ Apaixonado por tecnologia, programação e desenvolvimento pessoal, busco minha 
 
 <!--## <h2 style="border:none;">🚀Habilidades em desenvolvimento</h2>-->
 
-<h2 style="border: none;">📚Atualmente estudando</h2>
+<h2 style="border: none;">📚Atualmente Estudando</h2>
 
 - Desenvolvimento Web Fullstack com Python (EBAC)
 
 - Engenharia de Software (Cruzeiro do Sul)
 - Front-End e Back-End
-- HTML
-- CSS
-- JavaScript
-
 - Git e GitHub
 - Lógica de Programação
 - Frameworks e bibliotecas
-- Python
+  
+<div> 
+  <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
+  <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+  <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+ <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+</div>
 
 ---
 <br>
 
 <h2 style="border:none;">🌐Meus links</h2>
-
-- LinkedIn: https://www.linkedin.com/in/mike-marquess-962199277/
-
-<!-- Portifolio: -->
-[Mikemarques023@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-- E-mail: Mikemarques023@gmail.com
-
-- GitHub: https://github.com/MikeMarquess
+<div>
+  <a href="https://www.linkedin.com/in/mike-marquess-962199277/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/MikeMarquess" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="malito:Mikemarques023@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+</div>
 
 ---
+
 <!--<h2 style="border:none;">🛠️ Projetos:</h2>
 - : Uma breve descrição
 - : Outra breve descrição-->
----
