@@ -60,6 +60,16 @@ Apaixonado por tecnologia, programação e desenvolvimento pessoal, busco minha 
 
 ---
 
+
+## Estatisticas
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeMarquess&show_icons=true&theme=dark)](https://github.com/MikeMarquess)
+
+<!--https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file-->
+
+---
+
 ![snake gif](https://github.com/MikeMarquess/MikeMarquess/blob/output/github-contribution-grid-snake.gif)
 
 <!--<h2 style="border:none;">🛠️ Projetos:</h2>
