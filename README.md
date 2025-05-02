@@ -60,6 +60,8 @@ Apaixonado por tecnologia, programação e desenvolvimento pessoal, busco minha 
 
 ---
 
+# ![snake gif](https://github.com/MikeMarquess/MikeMarques/blob/output/github-contribution-grid-snake.gif)
+
 <!--<h2 style="border:none;">🛠️ Projetos:</h2>
 - : Uma breve descrição
 - : Outra breve descrição-->
