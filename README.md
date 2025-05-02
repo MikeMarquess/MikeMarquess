@@ -44,15 +44,15 @@ Apaixonado por tecnologia, programação e desenvolvimento pessoal, busco minha 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   
-  <a href="mailto:Mikemarques023@gmail.com" target="_blank">
+  <a href="mailto:Mikemarques023@gmail.com" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   
-  <a href="https://seu-vercel-url.vercel.app" target="_blank">
+  <a href=" " target="_blank">
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   </a>
   
-  <a href="https://seusite.com" target="_blank">
+  <a href=" " target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
   </a>
 </div>
