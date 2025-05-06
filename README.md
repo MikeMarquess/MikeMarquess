@@ -12,9 +12,9 @@ Apaixonado por tecnologia, programação e desenvolvimento pessoal, busco minha 
 
 <h2 style="border: none;">📚Atualmente Estudando</h2>
 
-- Desenvolvimento Web Fullstack com Python (EBAC)
+- Desenvolvimento Web Fullstack com Python ( EBAC )
 
-- Engenharia de Software (Cruzeiro do Sul)
+- Engenharia de Software ( Cruzeiro do Sul )
 - Front-End e Back-End
 - Git e GitHub
 - Lógica de Programação
