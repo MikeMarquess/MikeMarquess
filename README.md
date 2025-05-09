@@ -10,7 +10,7 @@ Apaixonado por tecnologia, programação e desenvolvimento pessoal, busco minha 
 
 <!--## <h2 style="border:none;">🚀Habilidades em desenvolvimento</h2>-->
 
-<h2 style="border: none;">📚Atualmente Estudando</h2>
+<h2 style="border: none;">📚Atualmente Estudando 👨‍💻</h2>
 
 - Desenvolvimento Web Fullstack com Python ( EBAC )
 
